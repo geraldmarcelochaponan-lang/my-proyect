@@ -113,8 +113,8 @@ dist/
 
 Este proyecto puede utilizarse con fines educativos o personales. Si se publica de forma pública, se recomienda añadir una licencia antes de distribuirlo.
 
+### Autores
 
-### Auctores
-Bancayán Valera Kevin Roger
-Marcelo Chapoñan Gerald Fernando
-Valdera SotoJoel Alberto
+* Bancayán Valera, Kevin Roger
+* Marcelo Chapoñan, Gerald Fernando
+* Valdera Soto, Joel Alberto
