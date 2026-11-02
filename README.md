@@ -112,3 +112,9 @@ dist/
 ## Licencia
 
 Este proyecto puede utilizarse con fines educativos o personales. Si se publica de forma pública, se recomienda añadir una licencia antes de distribuirlo.
+
+
+### Auctores
+Bancayán Valera Kevin Roger
+Marcelo Chapoñan Gerald Fernando
+Valdera SotoJoel Alberto
